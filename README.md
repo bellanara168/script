@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def adicionar(x, y):
   return x + y
 
